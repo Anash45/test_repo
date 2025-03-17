@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "exalted-kayak-454014-g2",
+  "private_key_id": "2e5dfb7f1a7524f1dd1bb728a1ba849e8201f3e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCvRrbix2ARe2ZJ\nRGSFeGE3WW8J3AvfFIA44mAsBaiaPrO9tcY1tI8nQI0UIyfxZoZuT45dJrKCpmAG\n5nmjFc+jpRHfCeJFLTJWYmUXqSy3kHXF0Ko85dGl9KJCo1IRlH0gmiUMGdvJmxi+\nxInpF17nVUUFg76FnuX1UBCRhtx6twTNpW20fk2QQRSVJFIdHGQHrBa4D545KSwP\n8m0a+XCs3waQqA6+8auo8JcQEc1H4j3oVOIZHmOfFSNVjlK3rr1pQKVuTwIUyAI1\nFjqKTi5+RKM8s1Es2CsZKVU2Q3/brctU+CZZhni7x97XOzEGW78+lMnrj/3zSL43\nloljjTVfAgMBAAECggEAAXl+U2UYuLzuGpT67qjQP/5Qsed38mKUsm71sStn3+8v\niclnotgsiG04YqBXqXhSsxAqtWBX5Wg0NQqnfAjUcN7vkzJvTfavBV90+PvqTXcM\nBXY8KY5H/FFeM9AIXaZ/OiM0Irq2ZEuZq8QM0B20bsOn0BH+LCCcmRY92gOTOkeg\nKCKt1JqbsUiVQrzpNrJuhwEfwyAZLCWpjnVddXqfvWGgB/rK7zA52bHYXVeNuhNk\nFL6X+2LN9XfbJa6a1oCQASlL/Su8Ap0htKeAyBP3Mop1YMsZyM/ic+iFB5jNQMnc\nl55yvx/efeCO87ieHC9mjOChJ5EAzK30jHJKOUNluQKBgQDxp5ToLblJnxSPK8Xi\nsY0pOE3d9W9xJPPdx/WNvsEGuwP1wHSiy683bmR/1PFOIYIFhjs6F93wVDDdMM3/\nFbbp5iKwfh0tyrt7PUXx2O9sWrjOyIA/roQSH4BylVK4WbnsFsclmUCImE/qTGuN\n2L3wh5cnftRwzCldx4NudAGa6QKBgQC5rmHblzb3Dtx5QcGv6LCFytqIX3YEkfJi\nSjaNLwLiMsGAwzc1kYwx3o5zeaXJpQLawxfCnNP5QG5irk1EsSMz6wxxOONPZs2p\n/XRH9XFE57Xrr2Ai8g/alrVZ1eq2pq3iEimrasliC5EKd5OFfNeroUAl/5z4H9c0\nE1qpliSRBwKBgQDWcEtnLQv7FLt9wO49GCmXpmsSx7U4xf3RlJuGSPupKVN+RGY8\nAFtf6QotlZz8JCfpFxB/oKZFmbAy2Bg0f+Rs8tddnsvt0rVDyz/COStdD7RnauzD\nle2E14d4JqHdDWI66ouWBcSKcf6Yf3AB04/ZXbj4R0flQIaEvYMYBMFX4QKBgQCT\nLAXCUGuvjObxcU48yHlJwoxN9SQM4UU15M6yPuXRNhurnI+g9Pki+dz86Bmg5xqJ\nHIMzrKxS7l/P9Ymm/aQCXbZh844v/DLdHthQxNj/nYzS/xF7AVPRlQyu5OAB38EI\n5A6FIMH35WUT381cy6QCFHBM7fqTrGEdlI2Sxz+6dwKBgQCYiRMdtRwVBU0dpK2s\nqG0fp+ccsw8zNLzsBjKTq1oelplzxbJgzQoly72OQFLtn3kUHZQJJvKiHNhRuvEy\nu8rYSEYUrTAKZCWUxsLTKnid0a8NMgud6z9EHK/xStAxfbA8Z2ROeEJEOglty1up\nkSL04SxI131T6UBawQbrAOPlcQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-acc-1@exalted-kayak-454014-g2.iam.gserviceaccount.com",
+  "client_id": "107309591465692253003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-acc-1%40exalted-kayak-454014-g2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

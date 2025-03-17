@@ -5,7 +5,7 @@ use Google\Client;
 use Google\Service\Drive;
 
 // Database credentials
-$db_host = "153.92.15.32";
+$db_host = "localhost";
 $db_user = "u432621597_test_db";
 $db_pass = "sA#>A^0d";
 $db_name = "u432621597_test_db";

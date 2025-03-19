@@ -55,8 +55,6 @@ while ($table = $tables->fetch_array()) {
 fclose($file);
 $conn->close();
 
-echo "Backup created: $backup_file\n";
-
 // ===============================
 // UPLOAD TO GOOGLE DRIVE
 // ===============================
@@ -81,8 +79,8 @@ $file = $service->files->create($fileMetadata, [
     'uploadType' => 'multipart'
 ]);
 
-echo "Backup uploaded to Google Drive: " . $file->id . "\n";
-
 // Delete local backup file after upload (Optional)
 unlink($backup_file);
+
+echo "Backup created and uploaded successfully. File ID: " . $file->id . "\n";
 ?>

@@ -80,7 +80,7 @@ $file = $service->files->create($fileMetadata, [
 ]);
 
 // Delete local backup file after upload (Optional)
-unlink($backup_file);
+// unlink($backup_file);
 
 echo "Backup created and uploaded successfully. File ID: " . $file->id . "\n";
 ?>

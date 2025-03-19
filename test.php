@@ -5,10 +5,10 @@ use Google\Client;
 use Google\Service\Drive;
 
 // Database credentials
-$db_host = "153.92.15.32";
-$db_user = "u432621597_test_db";
-$db_pass = "sA#>A^0d";
-$db_name = "u432621597_test_db";
+$db_host = "localhost"; // 153.92.15.32
+$db_user = "servmang_f4ft"; // u432621597_test_db
+$db_pass = "rFKbM3#0qAda"; // sA#>A^0d
+$db_name = "servmang_live"; // u432621597_test_db
 
 // Backup file name
 $backup_file = __DIR__ . '/backup_' . date("Y-m-d_H-i-s") . '.sql';
